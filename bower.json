@@ -1,0 +1,23 @@
+{
+  "name": "itoc.js",
+  "main": "itoc.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yufeiminds/itoc.js",
+  "authors": [
+    "Yufei Li <yufeiminds@gmail.com>"
+  ],
+  "description": "It is a jQuery plugin, A toc tree generator from html document.",
+  "keywords": [
+    "toc",
+    "jQuery",
+    "accessibility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

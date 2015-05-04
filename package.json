@@ -1,0 +1,26 @@
+{
+  "name": "itoc.js",
+  "version": "0.0.0",
+  "description": "It is a jQuery plugin, A toc tree generator from html document.",
+  "main": "itoc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yufeiminds/itoc.git"
+  },
+  "keywords": [
+    "toc",
+    "jQuery",
+    "accessibility",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Yufei Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yufeiminds/itoc/issues"
+  },
+  "homepage": "https://github.com/yufeiminds/itoc"
+}
